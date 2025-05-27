@@ -1,17 +1,16 @@
 # Figma
                  
 🛒 Swiggy Clone - Figma Design
-
--A UI/UX clone of the Swiggy food delivery app, designed in Figma for learning and portfolio purposes.
+1.A UI/UX clone of the Swiggy food delivery app, designed in Figma for learning and portfolio purposes.
 
 📁 Project Overview:
--This is a high-fidelity UI design that mimics the Swiggy mobile application. It includes key screens like:
+1.This is a high-fidelity UI design that mimics the Swiggy mobile application. It includes key screens like:
 
--Splash & Login Screens
--Home Page with Categories
--Restaurant Listings
--Product Detail Page
--Cart & Checkout Flow
+1.Splash & Login Screens
+2.Home Page with Categories
+3.Restaurant Listings
+4.Product Detail Page
+5.Cart & Checkout Flow
 
 🛠️ Tools Used:
 -Figma: For UI/UX Design
@@ -26,10 +25,6 @@
 
 Output:
 https://github.com/user-attachments/assets/93f81ce1-615c-42d5-befd-cdf84a473591
-
-
-
-
 
 
 
