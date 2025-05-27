@@ -1,5 +1,3 @@
-# Figma
-                 
 🛒 Swiggy Clone - Figma Design
 A UI/UX clone of the Swiggy food delivery app, designed in Figma for learning and portfolio purposes.
 
